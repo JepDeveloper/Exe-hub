@@ -1,6 +1,6 @@
 --[[
 strings-override
-Domain V2, by Shlex
+Exe Hub V2, By Exe Rechnologies credits to shlex for allowing me to use his hub ui.
 ]]
 
 
