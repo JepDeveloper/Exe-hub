@@ -3374,14 +3374,6 @@ AntiExploits = {
 DangerousGames = {6358843321,3522042406,286090429} -- games that will ban you if caught with the anticheat
 
 BackgroundExploits = {
-	EZHub = {
-		Name = "EZHub",
-		Description = "The all-in-one script hub",
-		PlaceIds = {204990346,2629642516,1962086868,155615604,2512643572,3101667897,402122991,3823781113,142823291,2317712696,171391948},
-		PremiumOnly = false,
-		WaitDuration = 0,
-		Loadstring = "https://raw.githubusercontent.com/debug420/Ez-Hub/master/EzHub3.9.lua",
-	},
 	lmber = {
 		Name = "Lumber Tycoon",
 		Description = "Created by Bark Development",
@@ -3549,6 +3541,14 @@ BackgroundExploits = {
 		PremiumOnly = false,
 		WaitDuration = 0,
 		Loadstring = "https://darkhub.xyz/remote-script.lua",
+	},
+	reaperhub = {
+		Name = "Reaper Hub",
+		Description = "Reaper Hub , Prison Life Only! Premium users use this.",
+		PlaceIds = {155615604},
+		PremiumOnly = true,
+		WaitDuration = 0,
+		Loadstring = "https://raw.githubusercontent.com/iCyphyDev/Reaper-Hub/main/reaperloader.lua",
 	},
 
 }
